@@ -3,11 +3,9 @@
 
 - 😀 Pronouns: She/Her
 
-- 🔭 I’m currently working on [After Hours V5](https://github.com/Lauren1066/V5)
+- 🔭 I’m currently working on [After Hours V5](https://github.com/Lauren1066/V5) and [VLC-Discord-RPC](https://github.com/vlc-rpc/vlc-discord-rpc)
 
 - 🌱 I’m currently learning **NodeJS, Python, and C++**
-
-- 👯 I’m looking to collaborate on [VLC-Discord-RPC](https://github.com/vlc-rpc/vlc-discord-rpc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
