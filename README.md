@@ -3,7 +3,7 @@
 
 - 😀 Pronouns: She/Her
 
-- 🔭 I’m currently working on [Duolingo FlashCards](https://github.com/Lauren1066/Duolingo/tree/main)
+- 🔭 I’m currently working on [Duolingo FlashCards](https://github.com/Lauren1066/Duolingo/tree/main) and [AFGE](https://github.com/culture-dao/afge)
 
 - 🌱 I’m currently learning **NodeJS, Python, Java, and C++**
 
