@@ -3,13 +3,13 @@
 
 - 😀 Pronouns: She/Her
 
-- 🔭 I’m currently working on [After Hours V5](https://github.com/Lauren1066/V5) and [VLC-Discord-RPC](https://github.com/vlc-rpc/vlc-discord-rpc)
+- 🔭 I’m currently working on [Duolingo FlashCards](https://github.com/Lauren1066/Duolingo/tree/main)
 
-- 🌱 I’m currently learning **NodeJS, Python, and C++**
+- 🌱 I’m currently learning **NodeJS, Python, Java, and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/5jVBW9RYFY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5jVBW9RYFY" height="30" width="40" /></a>
+<a href="https://discord.gg/gSWyDZBJ6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5jVBW9RYFY" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
